@@ -1,0 +1,30 @@
+{
+    margin:0;
+    padding:0;
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba)url(https://lh3.googleusercontent.com/CK2EelYLUA-mX3UHI6ev0U3V8v0zIIYeaTYEcduKWTFrLrb9NvhYzdBhls5_cXo88Qy8LYAPOfdGXl0c0vfDIVJ4vhLQi62ZNDn3OJGZQ43zxH5Lxs8OKChHgyrkfFuV98e4hG3s5oVZ0RR1oQVWBS58Rm9ROTQ6Dm8pLJm6sTQcJ-Fgd2M3YxDP_ZaDVov2l3qNIeKNv_dsH0ttTbwDt56jTHXaKPLTpV3INa-vFcMaDW5pl99kEvYALccxRLONkJS8hU-OnhCe8J_u-mWyCuSD53FOiJNd52E2cEBtlu1LmTaDibK-ctfSunENyOIfwJEtbn9TW4yBFA25rw8dsSvnRArPzh6MFhj0GaZVtDzE1gVjzCMXPJKx0_6Sn_HJAzALww6eluQKcixU9X3zRTHbZDLNPA1ee3aJasM7v4obawvTMqPgb51h6CYxZPF8TriwcCRITTzKkY55gVq5WxZLh1TVr2mHsiOM-DKpyyr_xgeozJafZ4k9x02SMzTfHLcPwgEujQ3Dpc7O5StJv1ycp69il32DpNQ7Jqegw4bN1ro1kZi1JysFb7OeeWrux7JIEgxm34OTpmlUGEaY88gLfH2IhuCFQNs48fUe9M-XX7kBq389BRTwEIB3W6F0jKFS1v1JQF2aPTxNH6D2OHEIiVpXpW2BnSQYr36BIy8G8-8YFti07JJzdOeGDw=w660-h827-no?authuser=1)
+    height:100v;
+    background-size:cover;
+    background-position:centre;
+
+}
+.main-nav
+{
+    float: right;
+    list-style:none;
+    margin-top:30px;
+}
+.main-nav li
+{
+    display:inline-block;
+}
+.main-nav li a
+{
+    color:white;
+    text-decoration: none;
+    padding: 5px 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
